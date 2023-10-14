@@ -4,10 +4,10 @@
 
 Select the following as confirmation that the files in this repository are complete.
 
-- [ ] Coding Challenges
-- [ ] Coding Concepts
-- [ ] Interview Questions
-- [ ] Career Readiness
+- [X] Coding Challenges
+- [X] Coding Concepts
+- [X] Interview Questions
+- [X] Career Readiness
 
 ### ✋ Reminder
 
